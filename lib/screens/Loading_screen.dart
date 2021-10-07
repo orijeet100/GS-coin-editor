@@ -1,6 +1,5 @@
 import 'dart:async';
-
-import 'package:editor_app/Editor_screen.dart';
+import 'package:editor_app/screens/Editor_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';

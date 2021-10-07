@@ -1,4 +1,4 @@
-import 'package:editor_app/Loading_screen.dart';
+import 'package:editor_app/screens/Loading_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
